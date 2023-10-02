@@ -2,7 +2,6 @@
 - 👀 I’m interested in all idea about it where it call me an it geeeks
 - 🌱 I’m currently learning java, python and RPA 
 - 💞️ I’m looking to collaborate on any project that about automation
-- 📫 How to reach me
 
 <!---
 Hairul343/Hairul343 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
